@@ -1,0 +1,26 @@
+# Core Agent SDK & Google Generative AI
+google-adk>=0.1.0
+google-genai>=1.0.0
+
+# Google Cloud Platform Services
+google-cloud-secret-manager>=2.16.0
+google-cloud-firestore>=2.13.0
+google-cloud-dlp>=3.13.0
+
+# Data Validation & Schema Enforcement
+pydantic>=2.6.0
+typing-extensions>=4.9.0
+
+# Observability, Structured Logging, and Tracing
+python-json-logger>=2.0.7
+structlog>=24.1.0
+opentelemetry-api>=1.22.0
+opentelemetry-sdk>=1.22.0
+
+# Utilities
+pyyaml>=6.0.1
+cachetools>=5.3.0
+
+# Automated Evaluation & Testing
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
